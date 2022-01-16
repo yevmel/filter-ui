@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+SIMPLE_STR=5
+COMPLEX_STR=6
+ASSIGNMENT=7
+WS=8
+'['=1
+']'=2
+'('=3
+')'=4
