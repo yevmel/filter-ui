@@ -10,4 +10,4 @@
 
 ## Demo
 
-http://todo
+https://yevmel.github.io/filter-ui/
